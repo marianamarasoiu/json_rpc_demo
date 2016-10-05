@@ -1,0 +1,6 @@
+name: json_rpc_demo_web_client
+version: 0.0.1
+dependencies:
+  json_rpc_2: any
+  web_socket_channel: any
+  browser: any
